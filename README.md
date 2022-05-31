@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [boxconn](https://boxconn.co)
 
-- 🌱 I’m currently learning **Vue, React**
+- 🌱 I’m currently learning **Vue, Next Js**
 
 - 💬 Ask me about **HTML, CSS, Vue**
 
