@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [boxconn](https://boxconn.co)
 
-- 🌱 I’m currently learning **Vue, Next Js**
+- 🌱 I’m currently learning **MeteorJs, Next Js**
 
-- 💬 Ask me about **HTML, CSS, Vue**
+- 💬 Ask me about **HTML, CSS, Nextjs, and MeteorJs**
 
 - 📫 How to reach me **ibrahimagariko@gmail.com**
 
-- ⚡ Fun fact **I usually switch from a web developer to a video editor.**
+- ⚡ Fun fact **I love editing animations and videos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
