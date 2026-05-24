@@ -1,15 +1,13 @@
 [![MasterHead](https://i.pinimg.com/originals/bf/c6/7a/bfc67a7da17b8a3f224b0ba748c71364.gif)](https://github.com/ibrahmounk)
 <h1 align="center">Hi 👋, I'm ibrahmounk</h1>
-<h3 align="center">A passionate frontend developer from Mali</h3>
+<h3 align="center">A passionate frontend developer from the real meridian 0 on earth.</h3>
 <img align="right" alt="dev" width="500" src="https://www.cmarix.com/blog/wp-content/uploads/2019/03/Hiring.gif">
 
 <p align="left"> <a href="https://twitter.com/realjigmm" target="blank"><img src="https://img.shields.io/twitter/follow/realjigmm?logo=twitter&style=for-the-badge" alt="realjigmm" /></a> </p>
 
-- 🔭 I’m currently working on [boxconn](https://boxconn.co)
+- 🔭 I’m currently working on some cool stuff with some cool people.
 
-- 🌱 I’m currently learning **MeteorJs, Next Js**
-
-- 💬 Ask me about **HTML, CSS, Nextjs, and MeteorJs**
+- 💬 Ask me about **HTML, CSS, Nextjs, AppScript, and AI applied to Instructional Design and innovative solutions **
 
 - 📫 How to reach me **ibrahimagariko@gmail.com**
 
